@@ -3,12 +3,19 @@ body{
     background-color: #e6eed6;
 }            
 h1{
-    font-family: Helvetica;
-                
+    font-family: Helvetica; 
 }
-p {
-    font-family: Verdana;
+.profile {
+
+    display: inline;
 }
+.bio {
+    display: inline;
+    float: right;
+    margin-top: 100px;
+    margin-right: 675px;
+} 
+
 .size_1 {
     font-size: 1.5em;
 }
